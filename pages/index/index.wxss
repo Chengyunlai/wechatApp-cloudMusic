@@ -43,29 +43,15 @@
     margin: 20rpx 0  ;
 }
 
+
 /*推荐歌曲*/
 
-.recommendContainer{
-    padding: 10rpx;
-}
 
-.recommendContainer .header .title{
-    font-size: 26rpx;
-    /*font-weight: bold;*/
-    line-height: 80rpx;
-    color: #666;
-}
-
-.recommendContainer .more{
-    float: right;
-    border-radius: 30rpx;
-    border: 1px solid #333;
-    font-size: 24rpx;
-    padding: 10rpx 20rpx;
-
-}
 
 /*内容区*/
+.recommendScroll{
+    height: 270rpx;
+}
 .scrollItem{
     width: 200rpx;
     margin: 10rpx;
